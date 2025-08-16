@@ -1,0 +1,15 @@
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\bin\Debug\net9.0\DistrictPopulationAnalyzer.exe
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\bin\Debug\net9.0\DistrictPopulationAnalyzer.deps.json
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\bin\Debug\net9.0\DistrictPopulationAnalyzer.runtimeconfig.json
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\bin\Debug\net9.0\DistrictPopulationAnalyzer.dll
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\bin\Debug\net9.0\DistrictPopulationAnalyzer.pdb
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.AssemblyInfo.cs
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.sourcelink.json
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.dll
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\refint\DistrictPopulationAnalyzer.dll
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.pdb
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\DistrictPopulationAnalyzer.genruntimeconfig.cache
+C:\Users\Doris Fefegula\Documents\Benjamin\DistrictPopulationAnalyzer\DistrictPopulationAnalyzer\obj\Debug\net9.0\ref\DistrictPopulationAnalyzer.dll
